@@ -16,3 +16,6 @@ Desenvolver lógica de programação e consolidar os fundamentos da linguagem Ja
 * Spring Tool Suite (STS) – IDE baseada no Eclipse
 * Sublime Text (editor de código)
 * PowerShell (terminal para compilação e execução)
+
+# 🧑‍💻​Autor
+Desenvolvido por Nathalia Godoi durante estudos de programação em Java.
