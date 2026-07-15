@@ -1,4 +1,4 @@
-# Estudos-Programa-o
+# Estudos-Programação
 Repositório com meus estudos, práticas e projetos desenvolvidos durante minha jornada no mundo da programação.
 
 # 🚀 Objetivo
@@ -18,4 +18,4 @@ Desenvolver lógica de programação e consolidar os fundamentos da linguagem Ja
 * PowerShell (terminal para compilação e execução)
 
 # 🧑‍💻​Autor
-Desenvolvido por Nathalia Godoi durante estudos de programação em Java.
+Desenvolvido por Eudardo Gouveia durante estudos de programação em Java.
