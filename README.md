@@ -18,4 +18,4 @@ Desenvolver lógica de programação e consolidar os fundamentos da linguagem Ja
 * PowerShell (terminal para compilação e execução)
 
 # 🧑‍💻​Autor
-Desenvolvido por Eudardo Gouveia durante estudos de programação em Java.
+Desenvolvido por Eduardo Gouveia durante estudos de programação em Java.
